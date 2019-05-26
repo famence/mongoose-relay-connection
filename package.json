@@ -1,6 +1,6 @@
 {
   "name": "mongoose-relay-connection",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Easiest and lightweight way to create a relay connection from mongoose query for paginate over.",
   "main": "index.js",
   "repository": {
@@ -24,5 +24,11 @@
   "homepage": "https://github.com/famence/mongoose-relay-connection#readme",
   "dependencies": {
     "graphql-relay": "^0.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5"
   }
 }
