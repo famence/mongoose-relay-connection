@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-relay-connection",
+  "version": "1.0.0",
+  "description": "Easiest and lightweight way to create a relay connection from mongoose query for paginate over.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famence/mongoose-relay-connection.git"
+  },
+  "keywords": [
+    "mongoose",
+    "relay",
+    "connection",
+    "pagination",
+    "graphql",
+    "mongodb",
+    "mongo"
+  ],
+  "author": "famence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famence/mongoose-relay-connection/issues"
+  },
+  "homepage": "https://github.com/famence/mongoose-relay-connection#readme",
+  "dependencies": {
+    "graphql-relay": "^0.6.0"
+  }
+}
