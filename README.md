@@ -1,5 +1,5 @@
 # mongoose-relay-connection
-Easiest and lightweight way to create a relay connection from mongoose query for paginate over.
+Easiest and lightweight way to create a Relay Connection from mongoose query for paginate over.
 
 ## Install
 `npm i mongoose-relay-connection --save`
